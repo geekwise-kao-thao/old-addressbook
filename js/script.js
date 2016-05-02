@@ -298,7 +298,7 @@ document.addEventListener('DOMContentLoaded',function(event){
         create_two_elements_in_a_container();
         var green_plus_container = document.getElementsByClassName('green_plus_container');
         
-        green_plus_container.textContent = '+';
+        green_plus_container[i].textContent = '+';
         console.log(green_plus_container.textContent);
     };
     
