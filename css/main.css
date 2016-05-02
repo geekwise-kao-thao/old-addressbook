@@ -241,14 +241,14 @@ div[id^=add_more_info_container_]{
 }
 
 .green_plus_container{
-    width:10%;
-    height:75%;
+    width:8%;
+    height:58%;
     background-color:#4FD669;
     float:left;
     border-radius:40px;
     color: white;
-    margin:9px;
-    padding-top: 5px;
+    margin:15px 9px 9px 9px;
+    padding-bottom: 7px;
 }
 
 .add_info_container{
